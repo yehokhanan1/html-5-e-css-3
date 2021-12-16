@@ -1,0 +1,42 @@
+body {
+    font: 20px Verdana;
+}
+
+.navbar {
+    background-color: #858383;
+}
+
+.logo-one {
+    border-radius: 20%;
+    margin: 1px 1px 1px 5px;
+}
+
+.quem-somos {
+    background-color: rgb(100, 100, 100);
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fone {
+    border-radius: 50%;
+}
+
+.parceiros {
+    background-color: rgb(121, 121, 121);
+}
+
+.KassaiB {
+    border-radius: 5%;
+}
+
+.insta {
+    border-radius: 15%;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
